@@ -76,6 +76,8 @@ ChatGPT 的強大，是否也想要把他串到各個聊天平台呢？這個 Re
 
 ## 相關專案
 - [auto-tinder](https://github.com/joelbarmettlerUZH/auto-tinder/tree/master)
+- [ChatGPT-Discord-Bot](https://github.com/TheExplainthis/ChatGPT-Discord-Bot)
+- [ChatGPT-Line-Bot](https://github.com/TheExplainthis/ChatGPT-Line-Bot)
 
 ## 授權
 [MIT](LICENSE)
