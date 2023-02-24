@@ -6,7 +6,8 @@
 
 ## 介紹
 ChatGPT 的強大，是否也想要把他串到各個聊天平台呢？這個 Repository 教你如何串到 Tinder 上，讓你忙碌時也能夠自動回覆訊息去交朋友，而這邊提供最基本的架構，只有從過去的聊天記錄去推測，會寫程式的工程師們，當然也可以把用戶的背景資訊，甚至去串圖像相關的模型，去偵測圖片，讓 ChatGPT 能夠回應的更適切。
-![Demo](https://github.com/TheExplainthis/ChatGPT-Line-Bot/blob/main/demo/chatgpt-line-bot.gif)
+
+![Demo](https://github.com/TheExplainthis/ChatGPT-Line-Bot/blob/main/demo/chatgpt-tinder-bot.gif)
 
 ## 安裝步驟
 ### Token 取得
