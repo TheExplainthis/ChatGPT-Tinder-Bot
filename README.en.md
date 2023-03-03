@@ -4,6 +4,11 @@
 
 [![license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENSE) [![Release](https://img.shields.io/github/v/release/TheExplainthis/ChatGPT-Tinder-Bot)](https://github.com/TheExplainthis/ChatGPT-Tinder-Bot/releases/)
 
+
+## Update
+- 2023/03/03 Model change to chat completion: `gpt-3.5-turbo`
+
+
 ## Introduction
 Do you want to integrate ChatGPT into various chat platforms? This repository teaches you how to integrate it with Tinder so that you can automatically reply to messages and make new friends even when you're busy. The provided code structure only infers from past chat records, but engineers who can write code can also use users' background information, or even use image-related models to detect pictures, to enable ChatGPT to respond more appropriately.
 
