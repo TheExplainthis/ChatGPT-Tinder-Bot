@@ -13,7 +13,7 @@ from fastapi import FastAPI
 import uvicorn
 load_dotenv('.env')
 
-models = OpenAIModel(api_key=os.getenv('OPENAI_API'), model_engine=os.getenv('OPENAI_MODEL_ENGINE'), max_tokens=int(os.getenv('OPENAI_MAX_TOKENS')))
+models = OpenAIModel(api_key=os.getenv('OPENAI_API'), model_engine=os.getenv('OPENAI_MODEL_ENGINE'))
 
 chatgpt = ChatGPT(models)
 dalle = DALLE(models)
