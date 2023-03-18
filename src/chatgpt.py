@@ -5,7 +5,7 @@ class ChatGPT:
     def __init__(self, model: ModelInterface):
         self.model = model
 
-    def get_response(self, user_id: str, text: str) -> str:
+    def get_response(self, text: str) -> str:
         messages = [{
             'role': 'system', 'content': 'You are a helpful assistant.'
         }, {
