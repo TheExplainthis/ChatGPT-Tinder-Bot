@@ -76,6 +76,11 @@ Do you want to integrate ChatGPT into various chat platforms? This repository te
 - How can I add more information?
     - In `/src/dialog.py`, there is a prefix that can be used to add information such as your preferred response style, so the bot can respond in accordance with your style.
 
+## Support Us
+Like this free project? Please consider [supporting us](https://www.buymeacoffee.com/explainthis) to keep it running.
+
+[<a href="https://www.buymeacoffee.com/explainthis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45px" width="162px" alt="Buy Me A Coffee"></a>](https://www.buymeacoffee.com/explainthis)
+
 ## Related Projects
 - [auto-tinder](https://github.com/joelbarmettlerUZH/auto-tinder/tree/master)
 - [ChatGPT-Discord-Bot](https://github.com/TheExplainthis/ChatGPT-Discord-Bot)
