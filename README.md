@@ -79,6 +79,12 @@ ChatGPT 的強大，是否也想要把他串到各個聊天平台呢？這個 Re
     - `/src/dialog.py` 中，有一個 `prefix`，可以將資訊加入其中，像是你可以訓練機器人，說明你的回應風格是什麼類型，因此希望他照著你的回應風格去做回應。
 
 
+## 支持我們
+如果你喜歡這個專案，願意[支持我們](https://www.buymeacoffee.com/explainthis)，可以請我們喝一杯咖啡，這會成為我們繼續前進的動力！
+
+[<a href="https://www.buymeacoffee.com/explainthis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45px" width="162px" alt="Buy Me A Coffee"></a>](https://www.buymeacoffee.com/explainthis)
+
+
 ## 相關專案
 - [auto-tinder](https://github.com/joelbarmettlerUZH/auto-tinder/tree/master)
 - [ChatGPT-Discord-Bot](https://github.com/TheExplainthis/ChatGPT-Discord-Bot)
