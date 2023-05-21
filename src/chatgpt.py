@@ -1,3 +1,4 @@
+import os
 from src.models import ModelInterface
 
 
@@ -7,7 +8,7 @@ class ChatGPT:
 
     def get_response(self, text: str) -> str:
         messages = [{
-            'role': 'system', 'content': 'You are a helpful assistant.'
+            'role': 'system', 'content': os.getenv('SYSTEM_MESSAGE')
         }, {
             'role': 'user', 'content': text
         }]
